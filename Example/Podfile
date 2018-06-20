@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LYBCategoryKit_Example' do
+  pod 'LYBCategoryKit', :path => '../'
+
+  target 'LYBCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
