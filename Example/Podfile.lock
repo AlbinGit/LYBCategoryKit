@@ -1,0 +1,16 @@
+PODS:
+  - LYBCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - LYBCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  LYBCategoryKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LYBCategoryKit: c28cbd3676024d77fb01ebbc6bc7619c9a7bae87
+
+PODFILE CHECKSUM: a64af192ed30532a9b7e2436a23819c6c952c5c2
+
+COCOAPODS: 1.4.0.beta.2

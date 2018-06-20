@@ -1,0 +1,22 @@
+{
+  "name": "LYBCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of LYBCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Albin/LYBCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Albin": "AlbinEmail@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Albin/LYBCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LYBCategoryKit/Classes/**/*"
+}

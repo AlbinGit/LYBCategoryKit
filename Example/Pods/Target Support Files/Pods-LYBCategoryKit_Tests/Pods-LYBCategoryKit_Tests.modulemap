@@ -1,0 +1,6 @@
+framework module Pods_LYBCategoryKit_Tests {
+  umbrella header "Pods-LYBCategoryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
